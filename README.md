@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vidhupvinod@gmail.com**
 
-- ⚡ Fun fact **awkwardly basic**
+- ⚡ Fun fact: **i am awkwardly basic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
