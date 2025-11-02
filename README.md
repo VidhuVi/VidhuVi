@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhu P Vinod</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **REACT AND ANDROID DEVELOPMENT**
+- 🌱 I’m currently learning **CONFUSED WITH TECH**
 
 - 📫 How to reach me **vidhupvinod@gmail.com**
 
