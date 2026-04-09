@@ -1,27 +1,39 @@
 <h1 align="center">Hi 👋, I'm Vidhu P Vinod</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Computer Science Student | AI & Cybersecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **CONFUSED WITH TECH**
-
-- 📫 How to reach me **vidhupvinod@gmail.com**
-
-- ⚡ Fun fact: **i am awkwardly basic**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vidhu-p-vinod-66a84b291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhu-p-vinod-66a84b291" height="30" width="40" /></a>
-<a href="https://kaggle.com/vidhupvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vidhupvinod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vidhupvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidhupvinod" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/vidhu-p-vinod-66a84b291" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/vidhupvinod" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="mailto:vidhupvinod@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhuvi&show_icons=true&locale=en&layout=compact" alt="vidhuvi" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhuvi&" alt="vidhuvi" /></p>
+- 🎓 **Education:** CS Student at Govt. Model Engineering College, Kochi (Class of 2027).
+- 🛸 **Autonomous Systems:** Developer for an autonomous drone that achieved **AIR 27** in the SAE ADDC competition.
+- 🤖 **AI Innovation:** Creator of **Law Sahayi**, a specialized AI agent designed for Indian law students.
+- 🛡️ **Cybersecurity:** Actively exploring **Ethical Hacking** and the security of automated/AI systems.
+- ⚡ **Fun Fact:** I'm a fan of night rides in the rain and heavy-duty debugging sessions.
 
-<!---
-VidhuVi/VidhuVi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,html,css" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,mysql,linux,git,androidstudio,opencv" alt="Tools" />
+</p>
+
+### 📈 Activity and Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs?username=vidhuvi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhuvi&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vidhuvi/vidhuvi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
