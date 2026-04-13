@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=react,tailwind,mysql,linux,git,androidstudio,opencv" alt="Tools" />
 </p>
